@@ -25,7 +25,7 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) e o [np
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/menu-online.git
+    git clone https://github.com/israelsanttana/online-menu.git
     ```
 
 2. Navegue até o diretório do projeto:
